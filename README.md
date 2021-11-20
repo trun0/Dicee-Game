@@ -5,7 +5,7 @@ It is a simple game involving two die. It has got player1 dice and player2 dice.
 
 
 ## How to run
-Download the project and you are ready to go. Just run the dicee.html file
+Download the project and you are ready to go. Just run the index.html file
 
 ## Authors and acknowledgment
 Tarun Kumar
